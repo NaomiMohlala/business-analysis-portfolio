@@ -1,10 +1,10 @@
 # Business Analysis Portfolio — Naomi Mohlala
 
+📧 naomimohlala2@gmail.com · 🌐 [naomimohlala.github.io/portfolio](https://naomimohlala.github.io/portfolio/) · 💻 [github.com/NaomiMohlala](https://github.com/NaomiMohlala)
+
 Welcome to my Business Analysis portfolio.
 
 Two end-to-end business analysis case studies, each covering the full BA lifecycle: business case, stakeholder analysis, requirements, user stories, process mapping, business rules, KPIs, test design, and requirements traceability.
-
-📧 naomimohlala2@gmail.com · 🌐 [naomimohlala.github.io/portfolio](https://naomimohlala.github.io/portfolio/) · 💻 [github.com/NaomiMohlala](https://github.com/NaomiMohlala)
 
 ## Projects
 
