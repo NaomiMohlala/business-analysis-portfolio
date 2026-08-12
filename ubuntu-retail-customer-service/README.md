@@ -6,18 +6,22 @@
 
 📄 [Read the full report (PDF)](./Ubuntu_Retail_BA_Project.pdf) · [Download the Word doc](./Ubuntu_Retail_BA_Project.docx)
 
-## The problem
+## Project Overview
 
-Ubuntu Retail's customer support process relied on manual ticket assignment, inconsistent escalation rules, and limited agent access to customer/order information — driving slow response times and high escalation rates.
+A Business Analysis case study focused on analysing and improving a customer service support process for Ubuntu Retail.
 
-| Metric | Current | Target |
-|---|---|---|
-| Average response time | 18 hours | < 6 hours |
-| Average resolution time | 42 hours | < 24 hours |
-| First-contact resolution | 54% | 75% |
-| Escalation rate | 22% | < 10% |
-| Customer satisfaction | 71% | ≥ 85% |
+The project follows the Business Analysis lifecycle from identifying the business problem through requirements analysis, process modelling, solution design, and validation.
 
+## Business Problem
+
+The existing customer service process contains manual steps and inefficient ticket handling, which can lead to:
+
+- Slow ticket resolution
+- Incorrect ticket routing
+- Delayed escalation
+- Limited visibility of ticket performance
+- Inconsistent customer communication
+- 
 ## What this case study covers
 
 - Business case & stakeholder analysis
@@ -36,7 +40,7 @@ Ubuntu Retail's customer support process relied on manual ticket assignment, inc
 
 ![As-Is Customer Service Process](./as-is-process.png)
 
-**To-Be:** Automatic categorisation, priority assignment, ticket routing, and SLA monitoring with rule-based escalation.
+**To-Be:** Automatic categorization, priority assignment, ticket routing, and SLA monitoring with rule-based escalation.
 
 ![To-Be Customer Service Process](./to-be-process.png)
 
