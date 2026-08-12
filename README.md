@@ -4,6 +4,8 @@ Welcome to my Business Analysis portfolio.
 
 Two end-to-end business analysis case studies, each covering the full BA lifecycle: business case, stakeholder analysis, requirements, user stories, process mapping, business rules, KPIs, test design, and requirements traceability.
 
+📧 naomimohlala2@gmail.com · 🌐 [naomimohlala.github.io/portfolio](https://naomimohlala.github.io/portfolio/) · 💻 [github.com/NaomiMohlala](https://github.com/NaomiMohlala)
+
 ## Projects
 
 ### 1. Ubuntu Retail — Customer Service Process Improvement
@@ -25,7 +27,16 @@ A case study focused on improving a customer service ticket management process.
 
 A case study focused on analyzing and improving an order management workflow.
 
-📧 naomimohlala2@gmail.com · 🌐 [naomimohlala.github.io/portfolio](https://naomimohlala.github.io/portfolio/) · 💻 [github.com/NaomiMohlala](https://github.com/NaomiMohlala)
+**Key BA deliverables:**
+- Business and functional requirements
+- User stories
+- Acceptance criteria
+- As-Is / To-Be process models
+- Business rules
+- UAT scenarios
+- Requirements Traceability Matrix
+- KPIs
+- Process improvement recommendations
 
 ## Case studies
 
