@@ -6,17 +6,22 @@
 
 📄 [Read the full report (PDF)](./Karoo_Market_BA_Project.pdf) · [Download the Word doc](./Karoo_Market_BA_Project.docx)
 
-## The problem
+## Project Overview
 
-Karoo Market's order lifecycle ran across disconnected systems, causing delayed processing, inaccurate inventory data, payment failures, and limited order visibility for customers.
+A Business Analysis case study focused on analysing and improving the order management process for Karoo Market.
 
-| Metric | Baseline | Target |
-|---|---|---|
-| Order processing time | 14 minutes | < 5 minutes |
-| Inventory accuracy | 82% | 98% |
-| Payment failure rate | 8% | < 3% |
-| Order-related complaints | 16% | < 7% |
-| Manual processing | 65% | < 20% |
+The project examines the current process, identifies business problems and requirements, and proposes a more efficient future-state process.
+
+## Business Problem
+
+The existing order management process can result in:
+
+- Delays in order processing
+- Manual handling of orders
+- Limited visibility of order status
+- Communication gaps between teams
+- Increased risk of order errors
+- Delayed customer updates
 
 ## What this case study covers
 
